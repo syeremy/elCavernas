@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{920723AC-5DB2-4F88-95FC-2C461B677839}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElCavernas.Tridion.EventSystem", "ElCavernas.Tridion.EventSystem\ElCavernas.Tridion.EventSystem.csproj", "{BF2A810A-6216-4791-AC87-A49B6D324A13}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElCavernas.Tridion.Templates", "ElCavernas.Tridion.Templates\ElCavernas.Tridion.Templates.csproj", "{4CA92D49-B0BF-4B12-9247-CA161E97AE86}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{920723AC-5DB2-4F88-95FC-2C461B677839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{920723AC-5DB2-4F88-95FC-2C461B677839}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{920723AC-5DB2-4F88-95FC-2C461B677839}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{920723AC-5DB2-4F88-95FC-2C461B677839}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BF2A810A-6216-4791-AC87-A49B6D324A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BF2A810A-6216-4791-AC87-A49B6D324A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF2A810A-6216-4791-AC87-A49B6D324A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
